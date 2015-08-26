@@ -81,6 +81,10 @@ ul {
  *
  */
 
+#drawer {
+  display: none;
+}
+
 .nav {
   width: 800px;
   margin-left: auto;
@@ -381,3 +385,15 @@ footer a {
   color: #333;
   padding: 1.5em;
 }
+
+/*
+ *
+ * Media Query breakpoints
+ *
+ */
+
+
+
+
+
+
